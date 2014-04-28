@@ -1,6 +1,7 @@
 """
 This tutorial introduces the multilayer perceptron using Theano.
 
+
  A multilayer perceptron is a logistic regressor where
 instead of feeding the input to the logistic regression you insert a
 intermediate layer, called the hidden layer, that has a nonlinear
